@@ -8,15 +8,15 @@ Marque esse projeto com uma estrela 🌟
 
 ### Página de Login
 
-<img src="https://github.com/ErickWendel/semanajsexpert-clubhouse-template/raw/main/assets/printscreen/clubhouse-login.PNG" width="300" alt="Login" />
+<img src="./assets/printscreen/clubhouse-login.PNG" width="300" alt="Login" />
 
 ### Página de Salas
 
-<img src="https://github.com/ErickWendel/semanajsexpert-clubhouse-template/raw/main/assets/printscreen/clubhouse-home.PNG" width="300" alt="Home" />
+<img src="./assets/printscreen/clubhouse-home.PNG" width="300" alt="Home" />
 
 ### Página de Sala
 
-<img src="https://github.com/ErickWendel/semanajsexpert-clubhouse-template/raw/main/assets/printscreen/clubhouse-room.PNG" width="300" alt="Room" />
+<img src="./assets/printscreen/clubhouse-room.PNG" width="300" alt="Room" />
 
 ## Checklist Features
 
